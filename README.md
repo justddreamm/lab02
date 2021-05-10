@@ -21,7 +21,7 @@ Initialized empty Git repository in /home/lagov/workspace/projects/lab02.1/.git/
 2. Выполните инструкцию по созданию первого коммита на странице репозитория, созданного на предыдущем шаге
 
 ```
-git remote add origin https://github.com/snoreoh/lab02.1.git
+git remote add origin https://github.com/justddreamm/lab02.1.git
 touch README.md
 git add README.md
 git commit -m"added README.md"
